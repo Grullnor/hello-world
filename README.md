@@ -1,2 +1,4 @@
 # hello-world
-Prints hello word
+Prints hello world
+
+I like to pet animals
